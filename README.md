@@ -19,9 +19,9 @@ A C# .NET 7.0 Outlook account generator that leverages Puppeteer Sharp. This too
 
 ## Prerequisites
 
-- [.NET 7.0 SDK](https://dotnet.microsoft.com/download/dotnet/7.0)
+- [NET 7.0 SDK](https://dotnet.microsoft.com/download/dotnet/7.0)
 - [Puppeteer Sharp](https://github.com/hardkoded/puppeteer-sharp)
-- [CapSolver](https://github.com/capsolver/capsolver-browser-extension)
+- [CapSolver 1.7.1](https://github.com/capsolver/capsolver-browser-extension/releases/tag/v1.7.1)
 
 ## Installation
 
